@@ -1,0 +1,99 @@
+::Pregunta 1::
+¿Cuál es el río más largo de España?
+
+{
+    ~a) Tajo: Incorrecto. El río más largo de España es el Ebro.
+    ~b) Guadalquivir: Incorrecto. El río más largo de España es el Ebro.
+    =c) Ebro: ¡Correcto! El Ebro es el río más largo de España.
+    ~d) Duero: Incorrecto. El río más largo de España es el Ebro.
+}
+
+::Pregunta 2::
+¿Qué río atraviesa Madrid, la capital de España?
+
+{
+    =a) Manzanares: ¡Correcto! El río Manzanares atraviesa Madrid.
+    ~b) Guadalquivir: Incorrecto. El río Manzanares atraviesa Madrid.
+    ~c) Ebro: Incorrecto. El río Manzanares atraviesa Madrid.
+    ~d) Tormes: Incorrecto. El río Manzanares atraviesa Madrid.
+}
+
+::Pregunta 3::
+¿Qué río es conocido por su distintivo color verde debido a depósitos minerales?
+
+{
+    ~a) Tajo: Incorrecto. El río conocido por su color verde es el río Tinto.
+    =b) Tinto: ¡Correcto! El río Tinto es conocido por su distintivo color verde.
+    ~c) Guadalquivir: Incorrecto. El río Tinto es conocido por su color verde.
+    ~d) Duero: Incorrecto. El río Tinto es conocido por su color verde.
+}
+
+::Pregunta 4::
+¿Qué río forma parte de la frontera entre España y Portugal?
+
+{
+    ~a) Ebro: Incorrecto. El río que forma la frontera es el Tajo.
+    ~b) Guadalquivir: Incorrecto. El río que forma la frontera es el Tajo.
+    =c) Tajo: ¡Correcto! El río Tajo forma parte de la frontera entre España y Portugal.
+    ~d) Tormes: Incorrecto. El río que forma la frontera es el Tajo.
+}
+
+::Pregunta 5::
+¿Qué río atraviesa la ciudad de Valencia en el este de España?
+
+{
+    ~a) Tajo: Incorrecto. El río en Valencia es el Turia.
+    ~b) Guadalquivir: Incorrecto. El río en Valencia es el Turia.
+    ~c) Ebro: Incorrecto. El río en Valencia es el Turia.
+    =d) Turia: ¡Correcto! El río Turia atraviesa la ciudad de Valencia.
+}
+
+::Pregunta 6::
+¿Qué río es famoso por su papel en la región vinícola de La Rioja?
+
+{
+    ~a) Tajo: Incorrecto. El río en La Rioja es el Ebro.
+    ~b) Guadalquivir: Incorrecto. El río en La Rioja es el Ebro.
+    =c) Ebro: ¡Correcto! El río Ebro es famoso por su papel en la región vinícola de La Rioja.
+    ~d) Duero: Incorrecto. El río en La Rioja es el Ebro.
+}
+
+::Pregunta 7::
+¿Cuál es el país de origen del río Duero antes de entrar en España?
+
+{
+    ~a) Portugal: Incorrecto. La fuente del Duero está en España.
+    ~b) Francia: Incorrecto. La fuente del Duero está en España.
+    =c) España: ¡Correcto! La fuente del río Duero está en España.
+    ~d) Andorra: Incorrecto. La fuente del Duero está en España.
+}
+
+::Pregunta 8::
+¿Qué río atraviesa la histórica ciudad de Sevilla?
+
+{
+    ~a) Tajo: Incorrecto. El río en Sevilla es el Guadalquivir.
+    =b) Guadalquivir: ¡Correcto! El río Guadalquivir atraviesa la histórica ciudad de Sevilla.
+    ~c) Ebro: Incorrecto. El río en Sevilla es el Guadalquivir.
+    ~d) Tormes: Incorrecto. El río en Sevilla es el Guadalquivir.
+}
+
+::Pregunta 9::
+¿Qué río es conocido por su papel en la producción de aceite de oliva en España?
+
+{
+    ~a) Tajo: Incorrecto. El río conocido por la producción de aceite de oliva es el Genil.
+    ~b) Guadalquivir: Incorrecto. El río conocido por la producción de aceite de oliva es el Genil.
+    ~c) Ebro: Incorrecto. El río conocido por la producción de aceite de oliva es el Genil.
+    =d) Genil: ¡Correcto! El río Genil es conocido por su papel en la producción de aceite de oliva en España.
+}
+
+::Pregunta 10::
+¿Qué río atraviesa la ciudad de Zaragoza en el noreste de España?
+
+{
+    ~a) Tajo: Incorrecto. El río en Zaragoza es el Ebro.
+    ~b) Guadalquivir: Incorrecto. El río en Zaragoza es el Ebro.
+    =c) Ebro: ¡Correcto! El río Ebro atraviesa la ciudad de Zaragoza.
+}
+
